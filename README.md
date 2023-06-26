@@ -11,7 +11,7 @@ To get started with running the automated tests locally, follow these steps:
 ## Installation
 1. Clone this repository to your local machine:
 
-``git clone <repository_url>``
+``git clone https://github.com/Rohit9113/qawingify/tree/main``
 
 2. Navigate to the cloned directory:
 
